@@ -1,4 +1,15 @@
 # Skill-SYnc-Project 
+
+![AppLogoFinal](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/c3733cc1-4153-43e8-9936-e21d366bbe75)
+
+
+
+
+
+
+
+
+
 the code is privte please let me know if you wnat to see teh code the actual repository can be found here 
 https://github.com/Ashi0066/Skill_Sync
 
