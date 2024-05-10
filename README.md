@@ -5,6 +5,7 @@ A workbased Learning Application developed to enhance integrity and automation i
 
 
 
+![AppLogoFinal](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/7ee2b2f8-d6db-433a-9c2b-7a51aeeb42e4)
 
 
 ## Application Detail
@@ -36,5 +37,6 @@ You can download the apk for the repository or use the QR code below
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+![Screenshot_20240425_201332](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/60d79e5e-4ce0-455a-8ef8-f5586d2398aa)
+![Screenshot_20240426_161353](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/6b4d4193-67f1-4020-a05b-bff0813d05d3)
