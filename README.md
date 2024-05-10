@@ -34,6 +34,8 @@ https://youtu.be/g5nsYl9c2Ss?si=PZvtftzIoBn5kbbB
 
 You can download the apk for the repository or use the QR code below 
 
+![Download the App (3)](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/96b8a1f2-0c0a-4f11-9347-df9d2f674acf)
+
 
 ## Screenshots
 
