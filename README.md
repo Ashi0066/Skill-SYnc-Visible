@@ -1,25 +1,40 @@
-# Skill-SYnc-Project 
 
-![AppLogoFinal](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/c3733cc1-4153-43e8-9936-e21d366bbe75)
+# Skill Sync 
 
-
-
+A workbased Learning Application developed to enhance integrity and automation in workbased learning. 
 
 
 
 
 
+## Application Detail
+The application is specifically designed to support work-based learning by utilizing geofencing technology to monitor student attendance. Additionally, it enables students to submit reflective logs detailing their work experiences. The app features comprehensive student profile management capabilities, including options for signup, sign-in, password reset, profile editing, and profile viewing. Furthermore, it includes a student dashboard where users can review their submitted logs and verify their attendance records.the application is part of a project whereby the website will be launched shortly 
+## Tech Stack 
+🔹 Kotlin
+ 📦 Jetpack Compose
+🌐 Google Geofence API
+🔥 Firebase
 
-the code is privte please let me know if you wnat to see teh code the actual repository can be found here 
-https://github.com/Ashi0066/Skill_Sync
-
-Please Email me aat the email address below if you want to see the source code i will be happy to make it visibele 
-ashirsiddique2000@gmail.com 
 
 
-Please see the introduction Video abut the project 
+## Authors
 
-#Intro video 
+- [@Ashir](https://github.com/Ashi0066)
 
-https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/ce3c988b-5d19-4cd0-b0f5-91df49feb584
+
+## Demo
+
+Here is a demo of the application on youtube 
+
+https://youtu.be/g5nsYl9c2Ss?si=PZvtftzIoBn5kbbB
+
+
+## Installation
+
+You can download the apk for the repository or use the QR code below 
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
