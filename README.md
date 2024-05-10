@@ -36,7 +36,7 @@ You can download the apk for the repository or use the QR code below
 
 
 ## Screenshots
+![image](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/98c0b836-3038-4bee-ae12-9906e2f62b4e)
 
 
-![Screenshot_20240425_201332](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/60d79e5e-4ce0-455a-8ef8-f5586d2398aa)
-![Screenshot_20240426_161353](https://github.com/Ashi0066/Skill-SYnc-Visible/assets/108072595/6b4d4193-67f1-4020-a05b-bff0813d05d3)
+
